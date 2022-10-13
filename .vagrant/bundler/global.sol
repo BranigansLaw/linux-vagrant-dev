@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-reload",["= 0.0.1"]]],"checksum":"9cf0a9065e031e1dc9166164bdccf124d31b16ebab503b3ff4d4d38785714d27","vagrant_version":"2.3.0"}
